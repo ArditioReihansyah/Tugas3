@@ -10,4 +10,5 @@ def show_catalogitem(request):
         'nama': 'Arditio Reihansyah Putra Pradana',
         'npm' : '2106751972'
     }
-    return render(request,"katalog.html",context)
+    return render(request,"katalog.html",context)    
+

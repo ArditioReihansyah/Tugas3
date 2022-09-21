@@ -1,0 +1,112 @@
+[
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 1,
+        "fields": {
+            "watched": true,
+            "title": "Dragon Ball",
+            "rating": 5,
+            "release_date": "26 April 1989",
+            "deskripsi": "Filmnya bagus dan keren sekali."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 2,
+        "fields": {
+            "watched": false,
+            "title": "Mencuri Raden Saleh",
+            "rating": 4,
+            "release_date": "25 Agustus 2022",
+            "deskripsi": "-"
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 3,
+        "fields": {
+            "watched": true,
+            "title": "Naruto",
+            "rating": 5,
+            "release_date": "15 Februari 2007",
+            "deskripsi": "Filmnya bagus dan menginspirasi."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 4,
+        "fields": {
+            "watched": true,
+            "title": "Sword Art Online",
+            "rating": 5,
+            "release_date": "7 Juli 2012",
+            "deskripsi": "Alur ceritanya bagus dan memiliki scene aksi yang menarik."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 5,
+        "fields": {
+            "watched": true,
+            "title": "Fairy Tail",
+            "rating": 5,
+            "release_date": "12 Oktober 2009",
+            "deskripsi": "Filmnya seru dan mengajarkan tentang setia kawan"
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 6,
+        "fields": {
+            "watched": true,
+            "title": "Captain Tsubasa",
+            "rating": 5,
+            "release_date": "1 Juli 1989",
+            "deskripsi": "Filmnya seru dan mengajarkan bola adalah teman"
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 7,
+        "fields": {
+            "watched": true,
+            "title": "BeyBlade",
+            "rating": 5,
+            "release_date": "8 Januari 2001",
+            "deskripsi": "Seru karena gasingnya bisa mengeluarkan jurus"
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 8,
+        "fields": {
+            "watched": true,
+            "title": "Log Horizon",
+            "rating": 5,
+            "release_date": "5 Oktober 2013",
+            "deskripsi": "Mirip SAO"
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 9,
+        "fields": {
+            "watched": true,
+            "title": "Peaky Blinders",
+            "rating": 5,
+            "release_date": "12 September 2013",
+            "deskripsi": "Tema industrial di masa lampau yang menarik"
+        }
+    },
+    {
+        "model": "mywatchlist.watchlist",
+        "pk": 10,
+        "fields": {
+            "watched": false,
+            "title": "Chucky",
+            "rating": 3,
+            "release_date": "12 Oktober 2021",
+            "deskripsi": "Serem"
+        }
+    }
+]
